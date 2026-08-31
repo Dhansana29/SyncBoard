@@ -58,5 +58,3 @@ Each task has a `version`. The client sends the version it last saw. If the serv
 ## Real-time
 Socket.io broadcasts `task:created`, `task:updated`, and `task:deleted`. Connected clients reload automatically.
 
-## Final submission
-Add your real group member names, GitHub URL, deployed URL, screenshots, and one-page reflection before submitting.

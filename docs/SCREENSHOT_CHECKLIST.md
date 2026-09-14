@@ -1,0 +1,13 @@
+# Real Evidence Checklist
+- Login
+- Register
+- Main board
+- Create/Edit/Move/Delete task
+- Backend terminal with MongoDB connected
+- Atlas users collection
+- Atlas tasks collection
+- Postman API
+- GitHub contributors/commits
+- Assignment 03 tag
+- Tests
+- GitHub Actions green build
